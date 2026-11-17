@@ -1,20 +1,17 @@
-# Tidebreaker — Lighthouse Defense
+# tidebreaker-lighthouse-defense
 
-Defend a lone lighthouse against 8 waves of gloom wisps rising from the sea, culminating in a boss battle against **The Drowned King**.
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/Zallan03/tidebreaker-lighthouse-defense/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/Zallan03/tidebreaker-lighthouse-defense/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
-## How to Play
-- Aim the lighthouse solar beam with your **mouse** and **click / hold** to fire energy bolts.
-- Banish enemies to collect **Star Shards** and build your combo multiplier.
-- Between waves, spend Star Shards in the **Beacon Forge** to upgrade Beam Power, Fire Rate, Max HP, Shard Magnet, and Pulse/Ability Power.
-- Survive all 8 waves and defeat The Drowned King to win.
+Tidebreaker — Lighthouse Defense: defend a lone lighthouse against 8 waves of gloom wisps rising from the sea, culminating in a boss battle against The Drowned King. Aim the solar beam, collect Star Shards, and upgrade in the Beacon Forge between waves.
 
-## Controls
-- **Mouse**: Aim beam & click UI buttons
-- **Left Click (hold)**: Fire Solar Beam
-- **1**: Frost Nova (freeze all wisps on screen)
-- **2**: Chain Bolt (arc lightning across up to 6 wisps)
-- **3**: Repair (spend 12 shards to restore HP)
-- **Space**: Pulse Blast (knockback shockwave)
-- **P / Esc**: Pause / Resume
-- **M**: Mute / Unmute WebAudio synth sound
-- **R**: Restart on Victory / Defeat screens
+## Run it
+
+```sh
+python3 -m http.server --directory game
+```
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=em9qff40&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards
